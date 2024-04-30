@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="Moonlxght0909"
+            fetch="https://github.com/Moonlxght0909"
+            clone-depth="1" />
+
+  clone-depth="1" />
+    <remote name="ProjectBlaze-Devices"
+            fetch="https://github.com/ProjectBlaze-Devices"
+            clone-depth="1" />
+
+    <remote  name="gh"
+           fetch="https://github.com"/> 
+
+    <remote  name="bitbucket"
+           fetch="https://bitbucket.com/"/>
+
+ <!--Tree -->
+ <project path="device/xiaomi/vayu" name="Moonlxght0909/android_device_xiaomi_vayu" remote="github" revision="fourteen" />
+
+ <!--Kernel -->
+ <project path="kernel/xiaomi/vayu" name="GXC2356/platform_kernel_xiaomi_vayu" remote="github" revision="main" />
+ 
+ <!--Vendor -->
+ <project path="vendor/xiaomi/vayu" name="ProjectBlaze-Devices/vendor_xiaomi_vayu" remote="github" revision="fourteen" />
+
+ <project path="vendor/xiaomi/mgc" name="GXC2356/vendor_mgc" remote="bitbucket" revision="main" />
+
+ <project path="vendor/dolby" name="dogpoopy/vendor_dolby" remote="gitlab" revision="main" />
+
+
+<!--CleanUp Existing-->
+
+<!--Other HALs-->
+
+<!-- Hardware -->
+ <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-21" />
+
+</manifest>
