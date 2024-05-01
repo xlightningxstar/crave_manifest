@@ -24,8 +24,6 @@
  <!--Vendor -->
  <project path="vendor/xiaomi/vayu" name="ProjectBlaze-Devices/vendor_xiaomi_vayu" remote="github" revision="fourteen" />
 
- <project path="vendor/xiaomi/mgc" name="GXC2356/vendor_mgc" remote="bitbucket" revision="main" />
-
  <project path="vendor/dolby" name="dogpoopy/vendor_dolby" remote="gitlab" revision="main" />
 
 
