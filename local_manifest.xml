@@ -5,8 +5,8 @@
             clone-depth="1" />
 
   clone-depth="1" />
-    <remote name="ProjectBlaze-Devices"
-            fetch="https://github.com/ProjectBlaze-Devices"
+    <remote name="TheMuppets"
+            fetch="https://github.com/TheMuppets"
             clone-depth="1" />
 
     <remote  name="gh"
@@ -19,15 +19,17 @@
            fetch="https://bitbucket.com/"/>
 
  <!--Tree -->
- <project path="device/xiaomi/vayu" name="YFMARCO/android_device_xiaomi_vayu" remote="github" revision="voltage-14" />
+ <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="YFMARCO" revision="blaze-14" />
+ <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="YFMARCO" revision="blaze-14" />
+
 
  <!--Kernel -->
- <project path="kernel/xiaomi/vayu" name="GXC2356/platform_kernel_xiaomi_vayu" remote="github" revision="main" />
+ <project path="kernel/samsung/sm6115" name="android_kernel_samsung_sm6115" remote="YFMARCO" revision="lineage-21" />
  
  <!--Vendor -->
- <project path="vendor/xiaomi/vayu" name="ProjectBlaze-Devices/vendor_xiaomi_vayu" remote="github" revision="fourteen" />
+ <project path="vendor/samsung/gta4l" name="TheMuppets/proprietary_vendor_samsung_gta4l" remote="github" revision="lineage-21" />
+ <project path="vendor/samsung/gta4l-common" name="TheMuppets/proprietary_vendor_samsung_gta4l-common" remote="github" revision="lineage-21" />
 
- <project path="vendor/dolby" name="dogpoopy/vendor_dolby" remote="gitlab" revision="main" />
 
 
 <!--CleanUp Existing-->
