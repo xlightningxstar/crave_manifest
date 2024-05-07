@@ -7,4 +7,4 @@ To initialize your local repository use
 Then to sync up:
 ----------------
 
-    repo sync --force-sync  --current-branch --no-tags --no-clone-bundle --optimized-fetch --force-broken
+    repo sync --force-sync --current-branch --no-tags --no-clone-bundle --optimized-fetch --force-broken
