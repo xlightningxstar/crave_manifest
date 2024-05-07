@@ -1,7 +1,7 @@
 To initialize your local repository use
 ---------------------------------------
 
-    git clone https://github.com/Moonlxght0909/android_build_manifest.git -b PixelOS .repo/local_manifests
+    git clone https://github.com/YFMARCO/build_manifest.git -b blaze-14 .repo/local_manifests
     
 
 Then to sync up:
