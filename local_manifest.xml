@@ -27,6 +27,7 @@
  <!--Vendor -->
  <project path="vendor/samsung/gta4l" name="TheMuppets/proprietary_vendor_samsung_gta4l" remote="github" revision="lineage-21" />
  <project path="vendor/samsung/gta4l-common" name="TheMuppets/proprietary_vendor_samsung_gta4l-common" remote="github" revision="lineage-21" />
+<project path="vendor/blaze" name="vendor_blaze" remote="github" revision="14-QPR2" />
 
 
 
