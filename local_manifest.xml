@@ -15,8 +15,6 @@
     <remote  name="gitlab"
            fetch="https://gitlab.com/"/> 
 
-    <remote  name="bitbucket"
-           fetch="https://bitbucket.com/"/>
 
  <!--Tree -->
  <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="YFMARCO" revision="blaze-14" />
