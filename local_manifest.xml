@@ -23,7 +23,7 @@
 
  <!--Kernel -->
  <project path="kernel/samsung/sm6115" name="android_kernel_samsung_sm6115" remote="YFMARCO-Dev" revision="fourteen" />
- <project path="prebuilts/clang/host/linux-x86/clang-neutron" name="android_kernel_samsung_sm6115" remote="z3zens" revision="main"/>
+ <project path="prebuilts/clang/host/linux-x86/clang-neutron" name="clang-neutron" remote="z3zens" revision="main"/>
 
  <!--Vendor -->
  <project path="vendor/samsung/gta4l" name="proprietary_vendor_samsung_gta4l" remote="YFMARCO-Dev" revision="fourteen" />
