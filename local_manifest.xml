@@ -17,8 +17,8 @@
 
 
  <!--Tree -->
- <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="YFMARCO-Dev" revision="orion-14" />
- <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="YFMARCO-Dev" revision="orion-14" />
+ <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="YFMARCO-Dev" revision="lineage-22.0" />
+ <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="YFMARCO-Dev" revision="lineage-22.0" />
 
 
  <!--Kernel -->
